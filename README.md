@@ -19,12 +19,11 @@ Graphical Abstract:
 
 Usage
 -----
+In this repository are the codes needed to automatically process the MEMI workflow in the Agisoft Metashape (c) software. The process has been divided into two codes. The code is developed for a particular case, some modifications will be necessary.
 
-* [NP_Promig_3D_function.m](NP_Promig_3D_function.m) -> MATLAB code that performs the PCStacking process.
+* [metashape_aligment_backup.py](metashape_aligment_backup.py) -> This code is in charge of bundle adjustment and camera alignment.
 
-* [NP_Sintetic_function.m](https://github.com/xabierblanch/PCStacking/blob/main/NP_Sintetic_function.m) -> MATLAB code that randomly generates 3D point clouds (from a mathematical function)
-
-* [Script_control_test.m](https://github.com/xabierblanch/PCStacking/blob/main/Script_control_test.m) -> MATLAB code that automatically performs the comparison of point clouds. Run the following .bat code: [Script_Comparacio_DEFORMATION_2.bat](https://github.com/xabierblanch/PCStacking/blob/main/Script_Comparacio_DEFORMATION_2.bat) 
+* [metashape_densecloud.py](metashape_densecloud.py) -> This code is responsible for computing the dense point cloud.
 
 Contribute
 -----
