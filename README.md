@@ -19,7 +19,7 @@ Graphical Abstract:
 
 Usage
 -----
-In this repository are the codes needed to automatically process the MEMI workflow in the Agisoft Metashape (c) software. The process has been divided into two codes. The code is developed for a particular case, some modifications will be necessary.
+In this repository are the codes needed to automatically process the MEMI workflow in the [Agisoft Metashape](https://www.agisoft.com/) (c) software. The process has been divided into two codes. The code is developed for a particular case, some modifications will be necessary.
 
 * [metashape_aligment_backup.py](metashape_aligment_backup.py) -> This code is in charge of bundle adjustment and camera alignment.
 
