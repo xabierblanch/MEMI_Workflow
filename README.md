@@ -3,14 +3,16 @@ Author: Xabier Blanch<br/>
 Contact: xabierblanch@gmail.com<br/>
 Publication: https://www.mdpi.com/2072-4292/13/8/1460
 
-Code developed in MATLAB to perform the PCStacking algorithm on point clouds. The code is developed for a particular case, some modifications will be necessary.
+Code developed in Python to perform the MEMI workflow in Agisoft Metashape. MEMI workflow is an enhanced workflow for image-based 3D reconstruction of high-resolution models designed to work with fixed time-lapse camera systems, based on multi-epoch multi-images (MEMI) to exploit redundancy.
 
 * More information is detailed in the [article](https://www.mdpi.com/2072-4292/13/8/1460) 
+
+Codes developed as part of a doctoral research at Universtiy of Barcelona (PhD). All these codes are developed for a particular case, some modifications will be necessary. If you use these codes or if they inspire you in your work, please share it with me :D (And cite it correctly).
 
 How to cite:
 -----
 
-Blanch, X.; Eltner, A.; Guinau, M.; Abellan, A. Multi-Epoch and Multi-Imagery (MEMI) Photogrammetric Workflow for Enhanced Change Detection Using Time-Lapse Cameras. Remote Sens. 2021, 13, 1460. https://doi.org/10.3390/rs13081460
+* Blanch, X.; Eltner, A.; Guinau, M.; Abellan, A. Multi-Epoch and Multi-Imagery (MEMI) Photogrammetric Workflow for Enhanced Change Detection Using Time-Lapse Cameras. Remote Sens. 2021, 13, 1460. https://doi.org/10.3390/rs13081460
 
 Graphical Abstract:
 -----
