@@ -7,7 +7,7 @@ Code developed in MATLAB to perform the PCStacking algorithm on point clouds. Th
 
 * More information is detailed in the [article](https://www.mdpi.com/2072-4292/13/8/1460) 
 
-How to citate:
+How to cite:
 -----
 
 Blanch, X.; Eltner, A.; Guinau, M.; Abellan, A. Multi-Epoch and Multi-Imagery (MEMI) Photogrammetric Workflow for Enhanced Change Detection Using Time-Lapse Cameras. Remote Sens. 2021, 13, 1460. https://doi.org/10.3390/rs13081460
